@@ -5,6 +5,10 @@ programming in Python.
 
 # Features
 
+# HEROKU
+
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## qBittorrent
 
 - Select files from a Torrent before and during downloading (Requires Base URL) (task option)
